@@ -1,0 +1,35 @@
+_repo: The-Collected-Works-of-William-Hazlitt-Vol-10-of-12_66734
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hazlitt, William
+    birthdate: 1778
+    deathdate: 1830
+    gutenberg_agent_id: '800'
+    url: http://www.gutenberg.org/2009/agents/800
+    wikipedia: https://en.wikipedia.org/wiki/William_Hazlitt
+  editors:
+  - agent_name: Glover, Arnold
+    birthdate: 1865
+    deathdate: 1905
+    gutenberg_agent_id: '39381'
+    url: http://www.gutenberg.org/2009/agents/39381
+  - agent_name: Waller, A. R. (Alfred Rayney)
+    alias: Waller, Alfred Rayney
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '956'
+    url: http://www.gutenberg.org/2009/agents/956
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Rayney_Waller
+description: ''
+gutenberg_issued: '2021-11-14'
+identifiers:
+  gutenberg: '66734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Collected Works of William Hazlitt, Vol. 10 (of 12)
+url: http://www.gutenberg.org/ebooks/66734
